@@ -1,5 +1,5 @@
 # BaristaMatic
-Simulator of automatic coffee dispensing machine using.
+**Simulator of automatic coffee dispensing machine**
 
 Ruby command line application replicates a machine that: 
 - Maintains an inventory of drink ingredients
